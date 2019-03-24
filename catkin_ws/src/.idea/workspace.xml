@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Project" targetName="sensor_base" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest_test_basic_localization_stage.launch" />
+      <config projectName="Project" targetName="diagnostic_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="visualization_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="bond_generate_messages_nodejs" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="roscpp_generate_messages_py" />
+      <config projectName="Project" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="Project" targetName="clean_test_results" />
+      <config projectName="Project" targetName="visualization_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_run_tests_gmapping" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="move_base_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="utils" />
+      <config projectName="Project" targetName="clean_test_results_gmapping" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="bond_generate_messages_py" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="Project" targetName="run_tests_turtlebot_description" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="_catkin_empty_exported_target" />
+      <config projectName="Project" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="actionlib_generate_messages_py" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="actionlib_generate_messages_eus" />
+      <config projectName="Project" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="download_extra_data" />
+      <config projectName="Project" targetName="gridfastslam" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="gmapping_test_turtlebot.bag" />
+      <config projectName="Project" targetName="bond_generate_messages_cpp" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="Project" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="gmock_main" />
+      <config projectName="Project" targetName="pick_objects" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" />
+      <config projectName="Project" targetName="gtest_main" />
+      <config projectName="Project" targetName="move_base_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" />
+      <config projectName="Project" targetName="turtlebot_description_test_urdf" />
+      <config projectName="Project" targetName="slam_gmapping_replay" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="scanmatcher" />
+      <config projectName="Project" targetName="visualization_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="tf_generate_messages_nodejs" />
+      <config projectName="Project" targetName="wall_follower" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" />
+      <config projectName="Project" targetName="tf_generate_messages_eus" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="diagnostic_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="slam_gmapping" />
+      <config projectName="Project" targetName="move_base_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="clean_test_results_turtlebot_description" />
+      <config projectName="Project" targetName="diagnostic_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="gtest" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" />
+      <config projectName="Project" targetName="_run_tests_turtlebot_description_gtest" />
+      <config projectName="Project" targetName="gmapping_test_replay_crash.bag" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="tf_generate_messages_cpp" />
+      <config projectName="Project" targetName="roscpp_generate_messages_eus" />
+      <config projectName="Project" targetName="gmock" />
+      <config projectName="Project" targetName="doxygen" />
+      <config projectName="Project" targetName="_run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" />
+      <config projectName="Project" targetName="bond_generate_messages_eus" />
+      <config projectName="Project" targetName="tests" />
+      <config projectName="Project" targetName="diagnostic_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="slam_gmapping_nodelet" />
+      <config projectName="Project" targetName="bond_generate_messages_lisp" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest_test_basic_localization_stage.launch" />
+      <config projectName="Project" targetName="_run_tests_turtlebot_description" />
+      <config projectName="Project" targetName="run_tests" />
+      <config projectName="Project" targetName="nodelet_generate_messages_py" />
+      <config projectName="Project" targetName="run_tests_turtlebot_description_gtest" />
+      <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="Project" targetName="nodelet_generate_messages_eus" />
+      <config projectName="Project" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="gmapping_test_upside_down.bag" />
+      <config projectName="Project" targetName="run_tests_gmapping" />
+      <config projectName="Project" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="diagnostic_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="sensor_odometry" />
+      <config projectName="Project" targetName="gmapping_hallway_slow_2011-03-04-21-41-33.bag" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" />
+      <config projectName="Project" targetName="tf_generate_messages_lisp" />
+      <config projectName="Project" targetName="_run_tests_gmapping_rostest" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="Project" targetName="gmapping_basic_localization_stage_groundtruth.pgm" />
+      <config projectName="Project" targetName="turtlebot_description_xacro_generated_to_devel_space_" />
+      <config projectName="Project" targetName="move_base_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="gmapping-rtest" />
+      <config projectName="Project" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="Project" targetName="run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" />
+      <config projectName="Project" targetName="move_base_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="visualization_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="turtlebot_marker_server" />
+      <config projectName="Project" targetName="gmapping_basic_localization_stage_indexed.bag" />
+      <config projectName="Project" targetName="visualization_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="turtlebot_teleop_joy" />
+      <config projectName="Project" targetName="tf_generate_messages_py" />
+      <config projectName="Project" targetName="add_markers" />
+      <config projectName="Project" targetName="sensor_range" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCATKIN_DEVEL_PREFIX:PATH=/home/cl/AAAProjects/AAAUdacity/roboND2/Proj5_HomeServiceRobot/P5_Root/catkin_ws/devel" GENERATION_DIR="$PROJECT_DIR$/../build" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7b33cb8-f110-4d3b-aafc-d1323af6511c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assets/HomeServiceRobot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assets/HomeServiceRobot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.catkin_workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RVizConfig/home_service.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/add_marker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/catkin_ws.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/home_service.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/pick_objects.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/test_navigation.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/test_slam.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShellScripts/wall_follower.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World/MyBuilding/model.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World/MyBuilding/model.sdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World/MyWorld.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World/MyWorldMap.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World/MyWorldMap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World/MyWorldNoObjects.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_markers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_markers/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_markers/src/CDeliverySpec.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_markers/src/CDeliverySpec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_markers/src/add_markers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_markers/src/add_markers_orig.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/Makefile.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/Makefile.generic-shared-object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/Makefile.subdirs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/generate_shared_object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/message" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/pretty_compiler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/build_tools/testlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/carmenwrapper/carmenwrapper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/carmenwrapper/carmenwrapper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/docs/Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/docs/scanmatcher.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/docs/userver.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gfs-carmen/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gfs-carmen/gfs-carmen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/grid/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/grid/graphmap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/grid/map_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfs2log.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfs2neff.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfs2rec.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfs2stat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfs2stream.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfsreader.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gfsreader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gridslamprocessor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/gridslamprocessor_tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gridfastslam/motionmodel.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/gfs2img.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/gfs_logplayer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/gfs_nogui.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/gfs_simplegui.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/gsp_thread.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/gsp_thread.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qgraphpainter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qgraphpainter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qmappainter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qmappainter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qnavigatorwidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qnavigatorwidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qparticleviewer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qparticleviewer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qpixmapdumper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qpixmapdumper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qslamandnavwidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/gui/qslamandnavwidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/grid/accessstate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/grid/array2d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/grid/harray2d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/grid/map.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/gridfastslam/gridslamprocessor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/gridfastslam/gridslamprocessor.hxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/gridfastslam/motionmodel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/log/configuration.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/log/sensorlog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/particlefilter/particlefilter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/scanmatcher/icp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/scanmatcher/scanmatcher.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/scanmatcher/smmap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/sensor/sensor_base/sensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/sensor/sensor_base/sensorreading.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/sensor/sensor_odometry/odometryreading.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/sensor/sensor_odometry/odometrysensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/sensor/sensor_range/rangereading.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/sensor/sensor_range/rangesensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/utils/autoptr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/utils/commandline.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/utils/gvalues.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/utils/macro_params.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/utils/point.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/include/gmapping/utils/stat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/ini/gfs-LMS-10cm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/ini/gfs-LMS-20cm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/ini/gfs-LMS-5cm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/ini/gfs-PLS-10cm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/ini/gfs-PLS-5cm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/carmenconfiguration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/carmenconfiguration.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/configuration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/log_plot.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/log_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/rdk2carmen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/scanstudio2carmen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/sensorlog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/sensorstream.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/log/sensorstream.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/particlefilter/particlefilter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/particlefilter/particlefilter_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/particlefilter/pf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/particlefilter/range_bearing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/eig3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/eig3.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/gridlinetraversal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/icptest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/lumiles.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/scanmatch_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/scanmatcher.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/scanmatcher.new.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/scanmatcherprocessor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/scanmatcherprocessor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/scanmatcher/smmap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_base/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_base/sensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_base/sensoreading.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_base/sensorreading.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_odometry/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_odometry/odometryreading.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_odometry/odometrysensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_range/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_range/rangereading.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/sensor/sensor_range/rangesensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/autoptr_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/datasmoother.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/dmatrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/movement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/movement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/optimizer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/orientedboundingbox.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/orientedboundingbox.hxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/printmemusage.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/printmemusage.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/printpgm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/stat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openslam_gmapping/utils/stat_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pick_objects/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pick_objects/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pick_objects/src/pick_objects.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/launch/slam_gmapping_pr2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/nodelet_plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/src/nodelet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/src/replay.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/src/slam_gmapping.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/src/slam_gmapping.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/basic_localization_laser_different_beamcount.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/basic_localization_stage.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/basic_localization_stage_replay.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/basic_localization_stage_replay2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/basic_localization_symmetry.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/basic_localization_upside_down.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/rtest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/gmapping/test/test_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/slam_gmapping/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/slam_gmapping/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slam_gmapping/slam_gmapping/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/setup_create.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/setup_kobuki.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot.rosinstall" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/.pydevproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/env-hooks/25.turtlebot.sh.em" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/icons/turtlebot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/interactions/admin.interactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/interactions/documentation.interactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/interactions/pairing.interactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/interactions/visualisation.interactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/3dsensor.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/concert_client.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/concert_minimal.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/3dsensor/astra.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/3dsensor/asus_xtion_pro.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/3dsensor/asus_xtion_pro_offset.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/3dsensor/kinect.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/3dsensor/r200.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/capabilities.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/create/mobile_base.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/description.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/kobuki/bumper2pc.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/kobuki/mobile_base.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/kobuki/safety_controller.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/mobile_base.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/netbook.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/robot.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/roomba/mobile_base.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/includes/zeroconf.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/launch/minimal.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/3dsensor.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/capabilities/defaults_tb2.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/create/capability_providers.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/create/diagnostics.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/defaults/capability_providers.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/defaults/smoother.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/kinect/capability_providers.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/kobuki/capability_providers.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/kobuki/diagnostics.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/mux.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/preferred_rapp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/roomba/capability_providers.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/roomba/diagnostics.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/xtion/capability_providers.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/param/zeroconf.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_bringup/scripts/turtlebot_addr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities.rosinstall" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/.pydevproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/interfaces/TurtleBotBringup.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/depthimage_to_laserscan.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/diagnostics.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/differential_mobile_base.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/depthimage_to_laserscan.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/diagnostics.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/placeholder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/rgbd_sensor.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/robot_state_publisher.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/turtlebot2_bringup.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/launch/turtlebot_bringup.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/rgbd_sensor.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/robot_state_publisher.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/turtlebot2_bringup.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_capabilities/providers/turtlebot_bringup.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/0_xtion_pro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/astra.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/astra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/asus_xtion_pro_live.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/asus_xtion_pro_live.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/kinect.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/kinect.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/kinect.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/r200.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/r200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/r200_bracket.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/r200_bracket_end.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/sensor_pole.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/xtion_pro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/xtion_pro_camera.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/xtion_pro_camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/sensors/xtion_pro_stack.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-02403-125_Spacer.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-02421-8000-RA_Turtlebot_F-F_Standoff.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-02421-8000-RA_Turtlebot_F-F_Standoff_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-04552-1000-RA_Turtlebot_M-F_Standoff.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-04552-1000-RA_Turtlebot_M-F_Standoff_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-04552-2000-RA_Turtlebot_M-F_Standoff.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-04552-2000-RA_Turtlebot_M-F_Standoff_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-04556-RA_Kinect_Standoff_Assy.3ds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/68-04556-RA_Kinect_Standoff_Assy.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/plate_0_logo.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/plate_0_logo.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/plate_1_logo.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/plate_1_logo.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/plate_2_logo.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/circles/plate_2_logo.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/1f_pole.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/1f_stack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/2f_pole.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/2f_stack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/3f_pole.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/3f_stack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/3f_stack1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/kinect_pole.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/images/kinect_pole_old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/plate_bottom.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/plate_middle.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/plate_top.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/pole_bottom.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/pole_kinect.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/pole_middle.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/meshes/stacks/hexagons/pole_top.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/create_circles_asus_xtion_pro.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/create_circles_kinect.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/kobuki_hexagons_astra.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/kobuki_hexagons_asus_xtion_pro.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/kobuki_hexagons_asus_xtion_pro_offset.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/kobuki_hexagons_kinect.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/kobuki_hexagons_r200.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/roomba_circles_asus_xtion_pro.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/robots/roomba_circles_kinect.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/scripts/calc_inertia.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/test.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/test/test_urdf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/common_properties.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/sensors/astra.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/sensors/asus_xtion_pro.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/sensors/asus_xtion_pro_offset.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/sensors/kinect.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/sensors/r200.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/stacks/circles.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/stacks/hexagons.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/turtlebot_common_library.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/turtlebot_gazebo.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_description/urdf/turtlebot_properties.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/launch/includes/velocity_smoother.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/launch/keyboard_teleop.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/launch/logitech.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/launch/ps3_teleop.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/launch/xbox360_teleop.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/param/mux.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/scripts/turtlebot_teleop_key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot/turtlebot_teleop/src/turtlebot_joy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/launch/create/dashboard.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/launch/kobuki/dashboard.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/launch/roomba/dashboard.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/launch/turtlebot_dashboard.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_dashboard/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactions/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactions/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactions/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactions/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactions/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/launch/interactive_markers.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_interactive_markers/src/turtlebot_marker_server.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_blind_nav.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_model.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_navigation.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_navigation_app.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_robot.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_teleop_navigation.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/rviz/blind_nav.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/rviz/model.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/rviz/navigation.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/rviz/navigation_app.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/rviz/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_interactions/turtlebot_rviz_launchers/rviz/robot.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/env-hooks/25.turtlebot-gazebo.sh.em" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/launch/amcl_demo.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/launch/gmapping_demo.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/launch/includes/create.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/launch/includes/kobuki.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/launch/includes/roomba.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/launch/turtlebot_world.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/maps/playground.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/maps/playground.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/worlds/corridor.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/worlds/empty.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_gazebo/worlds/playground.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_simulator.rosinstall" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_simulator/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_simulator/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_simulator/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_simulator/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_simulator/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/env-hooks/25.turtlebot-stage.sh.em" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/launch/turtlebot_in_stage.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/maze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/maze.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/robopark2.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/robopark_plan.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/stage/maze.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/stage/robopark_plan.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/maps/stage/turtlebot.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stage/rviz/robot_navigation.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/.pydevproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/documentation/architecture_overview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/env-hooks/25.turtlebot-stdr.sh.em" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/launch/includes/relays.launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/launch/turtlebot_in_stdr.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/frieburg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/frieburg.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/hospital_section.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/hospital_section.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/mines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/mines.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/robocup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/robocup.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/simple_rooms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/simple_rooms.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/sparse_obstacles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/maps/sparse_obstacles.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/nodes/tf_connector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/robot/turtlebot.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtlebot_simulator/turtlebot_stdr/rviz/robot_navigation.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wall_follower/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wall_follower/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wall_follower/src/wall_follower.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/../build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1900716013">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="8" />
+          <entry key="gitignore" value="1" />
+          <entry key="h" value="6" />
+          <entry key="md" value="1" />
+          <entry key="sh" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="ObjectiveC" value="14" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1876" />
+          <entry key="gitignore" value="16" />
+          <entry key="h" value="337" />
+          <entry key="md" value="1008" />
+          <entry key="sh" value="576" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="1008" />
+          <entry key="ObjectiveC" value="2213" />
+          <entry key="PLAIN_TEXT" value="592" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.83321166">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_markers/src/CDeliverySpec.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1144">
+                  <caret line="214" column="11" selection-start-line="214" selection-start-column="11" selection-end-line="214" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#0#20#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../../README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="990">
+                    <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ShellScripts/home_service.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="660">
+                  <caret line="30" selection-start-line="28" selection-end-line="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ShellScripts/wall_follower.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="682">
+                  <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_markers/src/CDeliverySpec.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="8" column="19" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#0#20#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pick_objects/src/pick_objects.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="396">
+                  <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                  <folding>
+                    <element signature="e#0#20#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ShellScripts/test_slam.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="550">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ShellScripts/pick_objects.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="594">
+                  <caret line="27" selection-start-line="27" selection-end-line="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ShellScripts/test_navigation.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="660">
+                  <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_markers/src/add_markers.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="352">
+                  <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+                  <folding>
+                    <element signature="e#0#20#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_markers/src/add_markers_orig.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#0#20#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>map_file</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>WORLD_FILE</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/add_markers/src/CDeliverySpec.h" />
+        <option value="$PROJECT_DIR$/add_markers/src/junk.cpp" />
+        <option value="$PROJECT_DIR$/add_markers/src/add_markers.cpp" />
+        <option value="$PROJECT_DIR$/ShellScripts/catkin_ws.sh" />
+        <option value="$PROJECT_DIR$/ShellScripts/test_slam.sh" />
+        <option value="$PROJECT_DIR$/pick_objects/src/pick_objects.cpp" />
+        <option value="$PROJECT_DIR$/ShellScripts/pick_objects.sh" />
+        <option value="$PROJECT_DIR$/ShellScripts/home_service.sh" />
+        <option value="$PROJECT_DIR$/ShellScripts/wall_follower.sh" />
+        <option value="$PROJECT_DIR$/ShellScripts/test_navigation.sh" />
+        <option value="$PROJECT_DIR$/add_markers/src/CDeliverySpec.cpp" />
+        <option value="$PROJECT_DIR$/../../.gitignore" />
+        <option value="$PROJECT_DIR$/../../README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2434" />
+    <option name="y" value="112" />
+    <option name="width" value="3172" />
+    <option name="height" value="2126" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pick_objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../junk/teeple/catkin_ws/src/pick_objects/src/pick_objects.cpp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../../../junk/teeple/catkin_ws/src/pick_objects/src/pick_objects.cpp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.add_markers">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest_test_basic_localization_stage.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest_test_basic_localization_stage.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_turtlebot_description" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_turtlebot_description" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_turtlebot_description_gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_turtlebot_description_gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="add_markers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="add_markers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="add_markers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bond_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bond_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results_gmapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_gmapping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results_turtlebot_description" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_turtlebot_description" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagnostic_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="diagnostic_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagnostic_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="diagnostic_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagnostic_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="diagnostic_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagnostic_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="diagnostic_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagnostic_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="diagnostic_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping-rtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping-rtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="gmapping-rtest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping_basic_localization_stage_groundtruth.pgm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping_basic_localization_stage_groundtruth.pgm" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping_basic_localization_stage_indexed.bag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping_basic_localization_stage_indexed.bag" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping_hallway_slow_2011-03-04-21-41-33.bag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping_hallway_slow_2011-03-04-21-41-33.bag" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping_test_replay_crash.bag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping_test_replay_crash.bag" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping_test_turtlebot.bag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping_test_turtlebot.bag" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmapping_test_upside_down.bag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmapping_test_upside_down.bag" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gridfastslam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gridfastslam" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="move_base_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="move_base_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="move_base_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="move_base_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="move_base_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nodelet_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nodelet_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pick_objects" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="pick_objects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="pick_objects">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest_test_basic_localization_stage.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest_test_basic_localization_stage.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_turtlebot_description" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_turtlebot_description" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_turtlebot_description_gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_turtlebot_description_gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scanmatcher" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="scanmatcher" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_base" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_odometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_odometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_range" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_range" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slam_gmapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="slam_gmapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="slam_gmapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slam_gmapping_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="slam_gmapping_nodelet" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slam_gmapping_replay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="slam_gmapping_replay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="slam_gmapping_replay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtlebot_description_test_urdf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="turtlebot_description_test_urdf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="turtlebot_description_test_urdf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtlebot_description_xacro_generated_to_devel_space_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="turtlebot_description_xacro_generated_to_devel_space_" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtlebot_marker_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="turtlebot_marker_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="turtlebot_marker_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtlebot_teleop_joy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="turtlebot_teleop_joy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="turtlebot_teleop_joy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="utils" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wall_follower" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="wall_follower" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="wall_follower">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.add_markers" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.move_base_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.move_base_msgs_generate_messages_eus" />
+      <item itemvalue="Application.move_base_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.move_base_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.move_base_msgs_generate_messages_py" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_eus" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_py" />
+      <item itemvalue="Application._catkin_empty_exported_target" />
+      <item itemvalue="Application.gridfastslam" />
+      <item itemvalue="Application.scanmatcher" />
+      <item itemvalue="Application.sensor_base" />
+      <item itemvalue="Application.sensor_odometry" />
+      <item itemvalue="Application.sensor_range" />
+      <item itemvalue="Application.utils" />
+      <item itemvalue="Application.pick_objects" />
+      <item itemvalue="Application._run_tests_gmapping" />
+      <item itemvalue="Application._run_tests_gmapping_rostest" />
+      <item itemvalue="Application._run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" />
+      <item itemvalue="Application._run_tests_gmapping_rostest_test_basic_localization_stage.launch" />
+      <item itemvalue="Application._run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" />
+      <item itemvalue="Application._run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" />
+      <item itemvalue="Application._run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" />
+      <item itemvalue="Application._run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" />
+      <item itemvalue="Application.bond_generate_messages_cpp" />
+      <item itemvalue="Application.bond_generate_messages_eus" />
+      <item itemvalue="Application.bond_generate_messages_lisp" />
+      <item itemvalue="Application.bond_generate_messages_nodejs" />
+      <item itemvalue="Application.bond_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results_gmapping" />
+      <item itemvalue="Application.gmapping-rtest" />
+      <item itemvalue="Application.gmapping_basic_localization_stage_groundtruth.pgm" />
+      <item itemvalue="Application.gmapping_basic_localization_stage_indexed.bag" />
+      <item itemvalue="Application.gmapping_hallway_slow_2011-03-04-21-41-33.bag" />
+      <item itemvalue="Application.gmapping_test_replay_crash.bag" />
+      <item itemvalue="Application.gmapping_test_turtlebot.bag" />
+      <item itemvalue="Application.gmapping_test_upside_down.bag" />
+      <item itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item itemvalue="Application.nodelet_generate_messages_cpp" />
+      <item itemvalue="Application.nodelet_generate_messages_eus" />
+      <item itemvalue="Application.nodelet_generate_messages_lisp" />
+      <item itemvalue="Application.nodelet_generate_messages_nodejs" />
+      <item itemvalue="Application.nodelet_generate_messages_py" />
+      <item itemvalue="Application.run_tests_gmapping" />
+      <item itemvalue="Application.run_tests_gmapping_rostest" />
+      <item itemvalue="Application.run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test" />
+      <item itemvalue="Application.run_tests_gmapping_rostest_test_basic_localization_stage.launch" />
+      <item itemvalue="Application.run_tests_gmapping_rostest_test_basic_localization_stage_replay.launch" />
+      <item itemvalue="Application.run_tests_gmapping_rostest_test_basic_localization_stage_replay2.launch" />
+      <item itemvalue="Application.run_tests_gmapping_rostest_test_basic_localization_symmetry.launch" />
+      <item itemvalue="Application.run_tests_gmapping_rostest_test_basic_localization_upside_down.launch" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.slam_gmapping" />
+      <item itemvalue="Application.slam_gmapping_nodelet" />
+      <item itemvalue="Application.slam_gmapping_replay" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application._run_tests_turtlebot_description" />
+      <item itemvalue="Application._run_tests_turtlebot_description_gtest" />
+      <item itemvalue="Application._run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" />
+      <item itemvalue="Application.clean_test_results_turtlebot_description" />
+      <item itemvalue="Application.run_tests_turtlebot_description" />
+      <item itemvalue="Application.run_tests_turtlebot_description_gtest" />
+      <item itemvalue="Application.run_tests_turtlebot_description_gtest_turtlebot_description_test_urdf" />
+      <item itemvalue="Application.turtlebot_description_test_urdf" />
+      <item itemvalue="Application.turtlebot_description_xacro_generated_to_devel_space_" />
+      <item itemvalue="Application.diagnostic_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.diagnostic_msgs_generate_messages_eus" />
+      <item itemvalue="Application.diagnostic_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.diagnostic_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.diagnostic_msgs_generate_messages_py" />
+      <item itemvalue="Application.turtlebot_teleop_joy" />
+      <item itemvalue="Application.turtlebot_marker_server" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.wall_follower" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2434" y="112" width="3172" height="2126" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49924242" visible="true" weight="0.116698906" />
+      <window_info id="Structure" order="1" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.116698906" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.2559675" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27323514" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" weight="0.3299389" />
+      <window_info anchor="right" x="0" y="0" width="826" height="1926" id="Documentation" side_tool="true" weight="0.3299389" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///opt/ros/kinetic/include/actionlib/client/simple_action_client.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8712">
+          <caret line="408" column="39" lean-forward="true" selection-start-line="408" selection-start-column="9" selection-end-line="408" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/move_base_msgs/MoveBaseGoal.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_markers/src/junk.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="368" column="12" lean-forward="true" selection-start-line="368" selection-start-column="12" selection-end-line="368" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShellScripts/catkin_ws.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShellScripts/wall_follower.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShellScripts/test_slam.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShellScripts/pick_objects.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShellScripts/test_navigation.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_markers/src/add_markers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShellScripts/home_service.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="28" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_markers/src/add_markers_orig.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_markers/src/CDeliverySpec.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_objects/src/pick_objects.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_markers/src/CDeliverySpec.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="214" column="11" selection-start-line="214" selection-start-column="11" selection-end-line="214" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="990">
+            <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
